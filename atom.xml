@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://oforyou.github.io/"/>
-  <updated>2018-11-01T09:03:45.604Z</updated>
+  <updated>2018-11-02T13:02:53.348Z</updated>
   <id>https://oforyou.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018.11.02晚</title>
+    <link href="https://oforyou.github.io/2018/11/02/2018-11-02%E6%99%9A/"/>
+    <id>https://oforyou.github.io/2018/11/02/2018-11-02晚/</id>
+    <published>2018-11-02T12:49:27.000Z</published>
+    <updated>2018-11-02T13:02:53.348Z</updated>
+    
+    <content type="html"><![CDATA[<p>后天就是青岛赛了，内心充满着忐忑和不安，还夹杂着一丝丝不舍。忐忑和不安是因为自从沈阳赛区之后自己就一直不在状态，无论心理上还是行动上都特别的慵散。虽然之前一直在告诫自己比赛不只看的是成绩，他更教会你一些习惯，这些习惯和思维方式是远比奖牌重要的。但是肤浅和浮躁的内心并没有遵循这一点。</p><p>不舍是因为当时钟到后天下午两点整，那时候将意味着我的ACM路已经结束了。永远也忘不了之前一直经历的失败，也永远忘不了沈阳的那一次成功。感激队友的理解包容，让我从一个小白慢慢成长起来。希望后天能画上一个<strong>不后悔</strong>的句号。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;后天就是青岛赛了，内心充满着忐忑和不安，还夹杂着一丝丝不舍。忐忑和不安是因为自从沈阳赛区之后自己就一直不在状态，无论心理上还是行动上都特别的慵散。虽然之前一直在告诫自己比赛不只看的是成绩，他更教会你一些习惯，这些习惯和思维方式是远比奖牌重要的。但是肤浅和浮躁的内心并没有遵循
+      
+    
+    </summary>
+    
+      <category term="dairy" scheme="https://oforyou.github.io/categories/dairy/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>ZOJ-3543不错的dp</title>
